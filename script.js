@@ -1,8 +1,3 @@
-// Guyana.onclick = myFunction;
-// function myFunction() {
-
-// global.document = new JSDOM(html).window.document;
-
 document.getElementById("Guyana").onclick = function(){
 
   var country = prompt("What Country Does This Map Along With The Flag Represent??");
