@@ -3,8 +3,8 @@ Game type:
 Game:
 Player v Computer 
 
-What the Game?
-Where you try to answer a countries name just based off of the map of the country along with the flag, its an open ended question no multipule choices, hence making the game a bit difficult.  
+What's the Game?
+Where you try to answer a countries name just based off of the map of the country along with the flag, its an open ended question no multipule choices, hence making the game a bit difficult.  The way the game works is when the player clicks on the map of the country with the falg on the map, a fill in the black appears on the top of the page if question is answered correctly the player will be notified if not also the player will be notified that the answer was incorrect. 
 
 Used:
 html,js and css 
