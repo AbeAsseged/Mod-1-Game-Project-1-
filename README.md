@@ -12,7 +12,13 @@ html,js and css
 How Gussing a country by the country's map along with the flag code works?
 
 In html i used div to seperate as a generic container for my image questions and used hr element as a break line between my question and a p element for my questions and an image element embeds my image in the document also gave my iamge an id so that i can use it on my js to be able to insert it as a clickable image. 
-In Js using an elements click event and getElemenBytId to be able to make an insertion of a clickable image from my htnl, when one clicks on the map of the country with its flag shaded on it by using prompt() a pop-up will appear on the screan and you type in the answer, furthermore Using an if else statment along with alert() method if answer entered is correct you will be notified with a statment of "Great Job", if one answered the question wrong you will also be notified with a statment of "You Are Incorrect, Try Agian!".
+In Js using an elements click event and getElemenById to be able to make an insertion of a clickable image from my html, when one clicks on the map of the country with its flag shaded on it by using prompt() a pop-up will appear on the screan and you type in the answer, furthermore Using an if else statment along with alert() method if answer entered is correct you will be notified with a statment of "Great Job", if one answered the question wrong you will also be notified with a statment of "You Are Incorrect, Try Agian!".
+
+
+Code I am proud off is?
+
+Assigning my images an id so that i can use elemts click and getElementById to make the images as a clickable image, along with Instance method prompt to dispay the answer box. 
+
 
 Issues run-into 
 
