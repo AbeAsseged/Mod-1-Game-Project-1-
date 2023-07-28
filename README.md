@@ -11,4 +11,4 @@ The onclick event occurs when the user clicks on an HTML element.
 prompt() instructs the browser to display a dialog with an optional message prompting the user to input some text
 
 Stretch Goals
-google fonts , asking countinant, capital city, historical question , what countries does it border, fun facts, recent news , government system , flag color meanings, national dishes and sport, traditional clothing and mannerisms , multipule choice, if incorrect give answer, point system/score keeper, add more country's to the list of questions, count # of questions button, have different rounds with diffculty levels, adding a time limit when answering the question. 
+google fonts , asking countinant, capital city, historical question , what countries does it border, fun facts, recent news , government system , flag color meanings, national dishes and sport, traditional clothing and mannerisms , multipule choice, if incorrect give answer, point system/score keeper, add more country's to the list of questions, count # of questions button, have different rounds with diffculty levels, adding a time limit when answering the question, make it look nicer using css. 
