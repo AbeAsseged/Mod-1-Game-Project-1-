@@ -1,6 +1,7 @@
-document.getElementById("Guyana").onclick = function() {
-
-
+// Guyana.onclick = myFunction;
+// function myFunction() {
+document.getElementById("Guyana").onclick = function(){
+  
   var country = prompt("What Country Does This Map Along With The Flag Represent??");
 
 if (country == "Guyana") {
@@ -9,6 +10,7 @@ if (country == "Guyana") {
   alert("You Are Incorrect, Try Agian!");
   }
 }
+
 
 document.getElementById("Brunei").onclick = function() {
 
@@ -45,7 +47,7 @@ if (country == "San Marino") {
 
 document.getElementById("Bulgaria").onclick = function() {
 
-  var country = prompt("What Country Does This Map Along With The Flag Represent??");
+  var country = prompt("What Country Does This Map Along With The Flag Represent?");
 
 if (country == "Bulgaria") {
   alert("Great Job");
@@ -66,10 +68,16 @@ if (country == "Bulgaria") {
 
 
 
+// questions = questions.sort(() => Math.random() - Math.random()).slice(0, 5);
 
 
+// function game() {
+//   for (let i=1; i <= 5; i++) {
+//   result() == 1;
+//   }
+// }
 
-
+// console.log(game());
 
 
 
