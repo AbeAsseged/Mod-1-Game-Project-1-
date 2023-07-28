@@ -1,4 +1,4 @@
-google fonts , asking countinant, capital city, historical question , what countries does it border, fun facts, recent news , governemtn system , flag color meanings, national dishes and sports, traditional clothing and mannerizims 
+google fonts , asking countinant, capital city, historical question , what countries does it border, fun facts, recent news , governemtn system , flag color meanings, national dishes and sports, traditional clothing and mannerizims , multipule choice, if incorrect give ans, point system, add more country's, count number of questions button, have different rounds with diffculty levels 
 
 slovina serbia 
 hungry nicragua guatamala 
